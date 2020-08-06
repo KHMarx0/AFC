@@ -3,6 +3,7 @@
 
 body {
     background: url('../images/bg.jpg') no-repeat bottom right fixed;
+    background-color: #0c0f22;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
